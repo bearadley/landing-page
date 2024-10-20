@@ -1,1 +1,1 @@
-# landing-page
+# This project will be a mock-up of a landing page 
