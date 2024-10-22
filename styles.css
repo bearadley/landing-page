@@ -52,12 +52,44 @@ h1 {
 .content {
     display: flex;
     flex-direction: row;
+    margin: 50px;
+    text-align: left;
 }
 
-.content-left,
 .content-right {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    width: 50%;
+}
+
+.content-left {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 150px;
+}
+
+img {
+    margin: 50px;
+    width: 500px;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    opacity: 0.7;
+}
+
+.sign-up {
+    width: 100px;
+    text-decoration: none;
+    background-color: #3882f6;
+    border: none;
+    display: block;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
 }
