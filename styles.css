@@ -133,13 +133,12 @@ h2 {
 
 .container-three {
     background-color: #e5e7eb;
-    /* display: flex; */
+    display: flex;
     height: 300px;
     justify-content: center;
     align-items: end;
     flex-direction: column;
-    text-align: center;
-    padding: 100px;
+    padding: 10% 25%;
 }
 
 h3 {
@@ -153,6 +152,5 @@ h3 {
     font-size: 18px;
     margin-top: 20px;
     font-weight: bold;
-    float: right;
-    margin-top: 2em;
+    margin-right: 3em;
 }
