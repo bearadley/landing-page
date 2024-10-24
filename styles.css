@@ -94,6 +94,7 @@ img {
     padding: 10px;
     border-radius: 8px;
     color: #fff;
+    margin-top: 16px;
 }
 
 h2 {
@@ -128,4 +129,30 @@ h2 {
 .p-card {
     text-align: center;
     font-size: 18px;
+}
+
+.container-three {
+    background-color: #e5e7eb;
+    /* display: flex; */
+    height: 300px;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+    text-align: center;
+    padding: 100px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote {
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+    float: right;
+    margin-top: 2em;
 }
