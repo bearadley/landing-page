@@ -206,3 +206,16 @@ h4 {
     opacity: 0.8;
     color: white;
 }
+
+.footer {
+    background-color: #1f2937;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h5 {
+    font-size: 16px;
+    color: white;
+}
